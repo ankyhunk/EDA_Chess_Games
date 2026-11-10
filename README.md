@@ -1,4 +1,4 @@
-# EDA-Chess-Games
+# EDA Chess Games
 
 Exploratory data analysis of **6.2 million chess games** played on [lichess.org](https://lichess.org), looking at player ratings, openings, game formats and how games end.
 
