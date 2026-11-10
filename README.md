@@ -2,8 +2,6 @@
 
 Exploratory data analysis of **6.2 million chess games** played on [lichess.org](https://lichess.org), looking at player ratings, openings, game formats and how games end.
 
-Project for the Jovian Zero to Data Analyst Bootcamp.
-
 ## Dataset
 
 [Chess Games](https://www.kaggle.com/datasets/arevel/chess-games) on Kaggle, built from the [Lichess database](https://database.lichess.org/) (6,256,184 games, 15 columns). The notebook downloads it with `opendatasets`, which asks for your Kaggle username and API key.
